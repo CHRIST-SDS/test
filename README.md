@@ -3,7 +3,7 @@
 ### 👉 Run in Google Colab
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ORG_NAME/REPO_NAME/blob/main/assignment.ipynb
+https://colab.research.google.com/github/CHRIST-SDS/test/blob/main/assignment.ipynb
 )
 
 ### Instructions
